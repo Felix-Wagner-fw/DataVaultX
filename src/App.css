@@ -1,0 +1,39 @@
+/* styles here */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav {
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .nav-links a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 10px;
+  }
+  
+  .home {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .about {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .profile {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  /*will add more styles as needed */
+  

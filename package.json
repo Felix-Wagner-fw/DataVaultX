@@ -1,0 +1,24 @@
+{
+    "name": "datavaultx",
+    "version": "1.0.0",
+    "description": "Decentralized marketplace for personal data monetization",
+    "main": "index.js",
+    "scripts": {
+      "deploy": "node scripts/deploy.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "blockchain",
+      "ethereum",
+      "solidity",
+      "smart contracts",
+      "decentralized",
+      "marketplace"
+    ],
+
+    "dependencies": {
+      "ethers": "^5.5.0",
+      "hardhat": "^2.0.8"
+    }
+  }
+  
